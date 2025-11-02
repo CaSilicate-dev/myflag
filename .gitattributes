@@ -1,0 +1,5 @@
+go_code.go linguist-language=Go
+xslt_code.xslt linguist-language=XSLT
+ember_code.emberscript linguist-language=EmberScript
+gnuplot_code.plt linguist-language=Gnuplot
+processing_code.pde linguist-language=Processing
